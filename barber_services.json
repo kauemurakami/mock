@@ -1,0 +1,32 @@
+{
+    "services_professional": [
+    {
+    "id": 1,
+    "description": "Barba",
+    "time": "20",
+    "price": 30,
+    "categoryName": "Barba"
+    },
+    {
+    "id": 1,
+    "description": "Barba e Bigode",
+    "time": "40",
+    "price": 35,
+    "categoryName": "Barba"
+    },
+    {
+    "id": 1,
+    "description": "Degradê",
+    "time": "40",
+    "price": 60,
+    "categoryName": "Cabelo"
+    },
+    {
+    "id": 1,
+    "description": "Platinado",
+    "time": "50",
+    "price": 80,
+    "categoryName": "Cabelo"
+    }
+    ]
+    }

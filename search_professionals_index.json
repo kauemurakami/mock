@@ -1,0 +1,35 @@
+{
+    "professionals": [
+    {
+    "firstName": "Luiz",
+    "kitBarber": true,
+    "lastName": "Carlos",
+    "phone": "34984939383",
+    "distance": "12"
+    },
+    {
+    "firstName": "Aldair ",
+    "kitBarber": true,
+    "lastName": "Carlos",
+    "distance": "16"
+    },
+    {
+    "firstName": "Juvenal ",
+    "kitBarber": true,
+    "lastName": "Juvenil",
+    "distance": "20"
+    },
+    {
+    "firstName": "Rodolfo ",
+    "kitBarber": true,
+    "lastName": "Silva",
+    "distance": "20"
+    },
+    {
+    "firstName": "Fulano ",
+    "kitBarber": true,
+    "lastName": "de Oliveira da Silva",
+    "distance": "20"
+    }
+    ]
+    }

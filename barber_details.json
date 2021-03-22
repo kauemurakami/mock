@@ -1,0 +1,43 @@
+{
+    "professional_rating": 3,
+    "professional": {
+    "textApresentation": "Sou Roberto, 33 anos, atuo como barbeiro profissional à 13 anos com os mais diversos tipos de cortes, barba, pinturas e processos capilares avançados, agora resolvi me juntar a Barber para que mais pessoas possam conhecer meu trabalho !"
+    },
+    "servicos": [
+    {
+    "data": "01/02/2021",
+    "valor": 30,
+    "description": "Barba e Bigode"
+    },
+    {
+    "data": "01/02/2021",
+    "valor": 30,
+    "description": "Barba e Degradê"
+    },
+    {
+    "data": "01/02/2021",
+    "valor": 30,
+    "description": "Barba e Pintura"
+    },
+    {
+    "data": "01/02/2021",
+    "valor": 30,
+    "description": "Barba e Bigode"
+    },
+    {
+    "data": "01/02/2021",
+    "valor": 30,
+    "description": "Barba e Cabelo"
+    },
+    {
+    "data": "01/02/2021",
+    "valor": 30,
+    "Platinado": "Barba"
+    },
+    {
+    "data": "01/02/2021",
+    "valor": 30,
+    "description": "Degradê"
+    }
+    ]
+    }
