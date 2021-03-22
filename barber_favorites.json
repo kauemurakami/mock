@@ -1,0 +1,32 @@
+{
+    "professionals": [
+        {
+            "firstName": "Kauê",
+            "lastName": "Murakami",
+            "phone": "34984069347",
+            "kitBarber": true,
+            "favorite": true
+        },
+        {
+            "firstName": "João",
+            "lastName": "Francisco",
+            "phone": "34984069347",
+            "kitBarber": true,
+            "favorite": true
+        },
+        {
+            "firstName": "Roberto",
+            "lastName": "Carlos",
+            "phone": "34984069347",
+            "kitBarber": true,
+            "favorite": true
+        },
+        {
+            "firstName": "Ivo",
+            "lastName": "Holanda",
+            "phone": "34984069347",
+            "kitBarber": true,
+            "favorite": true
+        }
+    ]
+}
